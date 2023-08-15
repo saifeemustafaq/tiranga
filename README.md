@@ -3,4 +3,4 @@ This Python code was written to celebrate the Independence Day of India to encou
 
 Download the code here: https://github.com/saifeemustafaq/tiranga/blob/main/tiranga.py
 
-For complete explanation visit - 
+For complete explanation visit - https://mustafatech.hashnode.dev/indian-flag-with-python-and-tkinter
